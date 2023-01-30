@@ -1,0 +1,32 @@
+{
+    "panelDataList" [
+        {
+            "panelType": "Bag",
+            "path": "UIPanel/BagPanel"
+        },
+        {
+            "panelType": "ItemMessage",
+            "path": "UIPanel/ItemMessagePanel"
+        },
+        {
+            "panelType": "MainMenu",
+            "path": "UIPanel/MainMenuPanel"
+        },
+        {
+            "panelType": "Skill",
+            "path": "UIPanel/SkillPanel"
+        },
+        {
+            "panelType": "SkillMessage",
+            "path": "UIPanel/SkillMessagePanel"
+        },
+        {
+            "panelType": "Task",
+            "path": "UIPanel/TaskPanel"
+        },
+        {
+            "panelType": "Character",
+            "path": "UIPanel/CharacterPanel"
+        }
+    ]
+}
